@@ -1,4 +1,3 @@
-```md
 # im tiercenterradial 👋
 
 > Developer focused on open internet, anti-censorship tools and access freedom.
